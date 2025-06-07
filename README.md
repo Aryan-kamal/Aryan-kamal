@@ -13,7 +13,11 @@
 💬 **Ask me about:** JavaScript • Node.js • Express • MongoDB • React<br>
 📫 **Reach me:** [📧 Email](mailto:kamalaryann1234567@gmail.com) • [🐙 GitHub](https://github.com/Aryan-kamal)<br>
 ⚡ **Fun fact:** I can’t sleep without debugging my code 😤
-
+<p align="left">
+  <a href="https://drive.google.com/file/d/1PR7xkmLcQT2HxKTK0OGdDrU1sIVn-ti-/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=0A66C2" alt="Aryan Kamal Resume" />
+  </a>
+</p>
 <br clear="both">
 
 ---
