@@ -2,22 +2,30 @@
 
 # 💫 About Me
 
-**Hey there!** I’m **Aryan Kamal**, a Full-Stack Developer who loves crafting web experiences and solving real-world problems with code.
+</div>
 
-- 🔭 **Working on:** CraftCulture – a stylish merchandising platform  
-- 🌱 **Learning:** Advanced backend with Node.js & MongoDB  
-- 👯 **Collaborating on:** MERN-stack & open-source tools  
-- 💬 **Ask me about:** JavaScript • Node.js • Express • MongoDB • React  
-- 📫 **Reach me:** [📧 Email](mailto:kamalaryann1234567@gmail.com) • [🐙 GitHub](https://github.com/Aryan-kamal)  
-- ⚡ **Fun fact:** I can’t sleep without debugging my code 😤
+<img align="right" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" height="200" alt="text-work animation" />
+
+**Hey there!** I’m **Aryan Kamal**, a Full-Stack Developer who loves crafting web experiences and solving real-world problems with code.<br><br>
+🔭 **Working on:** CraftCulture – a stylish merchandising platform<br>
+🌱 **Learning:** Advanced backend with Node.js & MongoDB<br>
+👯 **Collaborating on:** MERN-stack & open-source tools<br>
+💬 **Ask me about:** JavaScript • Node.js • Express • MongoDB • React<br>
+📫 **Reach me:** [📧 Email](mailto:kamalaryann1234567@gmail.com) • [🐙 GitHub](https://github.com/Aryan-kamal)<br>
+⚡ **Fun fact:** I can’t sleep without debugging my code 😤
+
+<br clear="both">
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/aryan_kamal07)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryan-kamal-934370234)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AryanKa09063877)
+<p align="center">
+  <a href="https://instagram.com/aryan_kamal07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aryan-kamal-934370234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AryanKa09063877"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/sDwTAR05"><img src="https://img.shields.io/badge/Codolio-007ACC?style=flat&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -40,21 +48,22 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan-kamal&theme=aura_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-kamal&theme=aura_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kamal&theme=aura_dark&layout=compact" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kamal&theme=aura_dark&layout=compact" alt="Top languages" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aryan-kamal&theme=onedark&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
+<br clear="both">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryan-kamal.Aryan-kamal" />
 
 </div>
