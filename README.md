@@ -13,16 +13,22 @@
 💬 **Ask me about:** JavaScript • Node.js • Express • MongoDB • React<br>
 📫 **Reach me:** [📧 Email](mailto:kamalaryann1234567@gmail.com) • [🐙 GitHub](https://github.com/Aryan-kamal)<br>
 ⚡ **Fun fact:** I can’t sleep without debugging my code 😤
+
 <p align="left">
   <a href="https://drive.google.com/file/d/1PR7xkmLcQT2HxKTK0OGdDrU1sIVn-ti-/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=0A66C2" alt="Aryan Kamal Resume" />
   </a>
 </p>
+
 <br clear="both">
 
 ---
 
+<div align="center">
+
 ## 🌐 Socials
+
+</div>
 
 <p align="center">
   <a href="https://instagram.com/aryan_kamal07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
@@ -33,7 +39,11 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stack
+
+</div>
 
 <p float="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -50,7 +60,11 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-kamal&theme=aura_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Aryan's GitHub stats" />
@@ -61,13 +75,16 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 Trophies
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aryan-kamal&theme=onedark&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <br clear="both">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryan-kamal.Aryan-kamal" />
 
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryan-kamal.Aryan-kamal" />
