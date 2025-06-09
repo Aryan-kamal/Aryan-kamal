@@ -1,5 +1,4 @@
 <div align="center">
-
 ## 💫 About Me
 
 </div>
@@ -7,7 +6,6 @@
 <img align="right" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" height="200" alt="text-work animation" />
 
 **Hey there!** I’m **Aryan Kamal**, a Full-Stack Developer who loves crafting web experiences and solving real-world problems with code.<br><br>
-🔭 **Working on:** CraftCulture – a stylish merchandising platform<br>
 🌱 **Learning:** Advanced backend with Node.js & MongoDB<br>
 👯 **Collaborating on:** MERN-stack & open-source tools<br>
 💬 **Ask me about:** JavaScript • Node.js • Express • MongoDB • React<br>
